@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <img  src="https://img.shields.io/github/license/murilorvargas/nlw-together?color=A152EF&labelColor=F9F9F9" alt="License">
+  <img  src="https://img.shields.io/github/license/murilorvargas/beautysalon?color=A152EF&labelColor=F9F9F9" alt="License">
   
-  <img src="https://img.shields.io/github/languages/top/murilorvargas/nlw-together?color=A152EF&labelColor=F9F9F9" alt="Languages">
+  <img src="https://img.shields.io/github/languages/top/murilorvargas/beautysalon?color=A152EF&labelColor=F9F9F9" alt="Languages">
 
-  <img src="https://img.shields.io/github/repo-size/murilorvargas/nlw-together?color=A152EF&labelColor=F9F9F9" alt="Stars">
+  <img src="https://img.shields.io/github/repo-size/murilorvargas/beautysalon?color=A152EF&labelColor=F9F9F9" alt="Stars">
 </p>
 
 <br>
